@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_callPhone">Call phone</string>
+    <string name="button_sendSMS">Send SMS</string>
+    <string name="button_takePhoto">Take photo</string>
+    <string name="button_standard">Standard</string>
+    <string name="button_singleTop">SingleTop</string>
+    <string name="button_singleTask">SingleTask</string>
+    <string name="button_singleInstance">SingleInstance</string>
+</resources>
